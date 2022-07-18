@@ -7,6 +7,9 @@ but losing their gained score for the turn if they roll a 1. Whoever gets a tota
 
 Things I learned or practiced in this project:
 * DOM Manipulation for example how to select an HTML element using Javascript and change the text.
-*
+* How to manipulate classes so adding, removing and toggling of classes.
+* How to generate random numbers between 1-6 for the dice using Math.floor function combined with Math.random.
+* How to dynamically select the active player and change the active player's current score and total score.
+* Use variable with boolean value to make the buttons unclickable after someone has won the game and the game is finished. 
 
 
