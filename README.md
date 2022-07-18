@@ -10,6 +10,7 @@ Things I learned or practiced in this project:
 * How to manipulate classes so adding, removing and toggling of classes.
 * How to generate random numbers between 1-6 for the dice using Math.floor function combined with Math.random.
 * How to dynamically select the active player and change the active player's current score and total score.
+* How to dynamically insert the right source image depending on what the roll of the dice was.
 * Use variable with boolean value to make the buttons unclickable after someone has won the game and the game is finished. 
 
 
