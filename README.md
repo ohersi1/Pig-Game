@@ -6,5 +6,7 @@ Pig is a simple dice game. Players take turns to roll a single dice as many time
 but losing their gained score for the turn if they roll a 1. Whoever gets a total score of 16 or more first wins.
 
 Things I learned or practiced in this project:
+* DOM Manipulation for example how to select an HTML element using Javascript and change the text.
+*
 
 
